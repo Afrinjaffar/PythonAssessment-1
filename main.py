@@ -1,4 +1,3 @@
-from typing import Tuple, Any
 # Developer - Afrin Rose
 # Project   - Python Assessment 1
 # Summary   - This will fetch all the rows from a source CSV file and then replace null/ special characters
